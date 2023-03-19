@@ -1,13 +1,6 @@
 ### Oi!/Hi! 👋
 
-<!--
-**GGG710/GGG710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱Estudando Python/Java/Html
+- 📫 Como me contactar:Georgegalvao939@gmail.com 
+- ⚡ Fato divertido:Sou ambidestro
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 Estou estudando Python/Java/Html
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
