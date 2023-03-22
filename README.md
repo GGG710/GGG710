@@ -6,9 +6,9 @@
 
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GGG710=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GGG710=GGG710&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGG710&hide_progress=true)](https://github.com/GGG710/github-readme-stats)
 
 
 
