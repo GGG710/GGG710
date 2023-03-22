@@ -5,7 +5,7 @@
 - ⚡ Fato divertido:Sou ambidestro
 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GGG710=anuraghazra&show_icons=true&bg_color=00000000)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GGG710=GGG710&show_icons=true&bg_color=00000000)
 
 
 
