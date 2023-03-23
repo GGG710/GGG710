@@ -6,6 +6,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGG710&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGG710&hide_progress=true)](https://github.com/GGG710/github-readme-stats)
+
 
 
 
